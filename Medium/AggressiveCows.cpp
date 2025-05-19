@@ -48,7 +48,7 @@ int aggressiveCows(int stalls[], int n, int k)
 
 int main()
 {
-    int stalls[] = {7, 13, 11};
+    int stalls[] = {10, 1, 2, 7, 5};
     int n = sizeof(stalls) / sizeof(stalls[0]);
     int k = 3;
 
